@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<config-name>ggg</config-name><!-- used to resolve dependency -->
+	<depends>zul</depends>
+	<version>
+		<version-class>ddd.Version</version-class>
+		<version-uid>uuu</version-uid>
+	</version>
+
+	<listener>
+		<listener-class>ddd.hhhThemeWebAppInit</listener-class>
+	</listener>
+</config>

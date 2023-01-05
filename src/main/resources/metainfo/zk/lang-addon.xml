@@ -1,0 +1,10 @@
+<language-addon>
+	<addon-name>ggg</addon-name>
+	<depends>zul</depends>
+	<language-name>xul/html</language-name>
+
+	<version>
+		<version-class>ddd.Version</version-class>
+		<version-uid>uuu</version-uid>
+	</version>
+</language-addon>
